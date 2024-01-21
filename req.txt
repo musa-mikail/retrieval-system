@@ -5,3 +5,4 @@ pypdf
 faiss-cpu
 tiktoken
 pypdfium2
+pymupdf
